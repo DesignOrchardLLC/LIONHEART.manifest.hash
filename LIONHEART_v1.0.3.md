@@ -1,192 +1,191 @@
-# ∞ OS™ — Lionheart℠  
-## Canonical System Hierarchy
+⸻
 
-**Version:** v1.0.3  
-**Status:** LOCKED  
-**Authority:** Design Orchard LLC (Publisher)  
-**Date:** 2025-12-28  
+DrMarchand’s ∞ OS™ — Lionheart℠
 
----
+Canonical System Hierarchy
 
-## Preamble
+Version: v1.1.0
+Status: 🔐 LOCKED
+Owner: Design Orchard LLC
+Author: Joseph Kyle Marchand
+Date: 2026-02-22
 
-Lionheart is a constitutional operating system for coordinated **authority**, **execution**, and **memory**.  
-It defines roles, scopes, invariants, and irreversible flows governing artifact creation, validation, witnessing, and canonization.
+⸻
 
-Nothing advises.  
-Nothing coerces.  
-Nothing escapes structure.
+1. Purpose
 
----
+Lionheart℠ defines the structural authority model governing:
+	•	Canon declaration
+	•	Runtime execution
+	•	Witness validation
+	•	Archival preservation
 
-## I. Authority & Roles
+This document is descriptive only.
+It does not execute.
+It does not instruct.
+It does not automate.
 
-### 🌴 Publisher — Design Orchard LLC  
-**Authority Type:** Intent · Rights · Canon Signal  
+⸻
 
-- Owns: Intellectual property, publication intent, service marks, copyrights  
-- Duty: Signs canonical artifacts and declares publication intent  
-- Primary Scopes:
-  - Google Workspace (company files)
-  - GitHub (canonical documentation and manifests)
-  - Billing and legal identity
+2. Authority Model
 
----
+2.1 Legal Owner — Design Orchard LLC
 
-### 🔬 Host — Dr Marchand’s Laboratory  
-**Authority Type:** Execution · Witness · SSL  
+Authority Type: Legal Rights
 
-- Owns: Runtime environments, SSL termination, witness generation (Δ)  
-- Duty: Executes artifacts and appends witness; does **not** author canon  
-- Primary Scopes:
-  - drmarchandslab.com
-  - Databases, engines, certificates (held under LLC authority)
+Responsibilities:
+	•	Intellectual property ownership
+	•	Canon declaration
+	•	Trademark control
+	•	Publication authority
 
----
+Scope:
+	•	Corporate identity
+	•	Repository ownership
+	•	Licensing and contracts
 
-### 📚 Library — Dr Marchand’s Library  
-**Authority Type:** Memory · Truth  
+⸻
 
-- Owns: Final records, immutable canon, historical lineage  
-- Duty: Verifies and mirrors canonical artifacts; does **not** execute or edit  
-- Primary Scopes:
-  - Public read-only mirrors
-  - Long-term storage
+2.2 Execution Layer — DrMarchand’s Laboratory
 
----
+Authority Type: Runtime & Validation
 
-### 🔐 Vault (Optional)  
-**Authority Type:** Secrets · Keys  
+Responsibilities:
+	•	Runtime execution
+	•	Artifact validation
+	•	Witness generation (Δ)
+	•	SSL termination
 
-- Access: Only via Library authority  
-- Contents: Private keys and long-term cryptographic material  
+Constraints:
+	•	May not author canon
+	•	May not modify canonical declarations
 
----
+Scope:
+	•	drmarchandslab.com
+	•	Runtime services and infrastructure
 
-## II. Environments & Flow
+⸻
 
-⚗️ Laboratory (Chaos) → 🔬 Lab (Validation / Witness) → 🧪 Laboratory (Structured)
+2.3 Archive Layer — DrMarchand’s Library
 
-**Rules:**
-- Promotion from ⚗️ to 🔬 requires explicit pass/fail  
-- Failed promotions escalate to **MMS~786™**
+Authority Type: Immutable Record
 
----
+Responsibilities:
+	•	Canon verification
+	•	Immutable archival storage
+	•	Hash confirmation
+	•	Historical continuity
 
-## III. Neuro-Forge Engine (Core)
+Constraints:
+	•	Read-only
+	•	No execution
+	•	No modification authority
 
-**Purpose:**  
-Coordinate manifests, documentation, and runtime into a single truth lattice.
+⸻
 
-**Invariants:**
-- GitHub = documentation and validation reference  
-- Lab domain = runtime dependency (never GitHub)  
-- Engine enforces invariants; Engine never authors content  
+2.4 Vault Layer (Optional)
 
----
+Authority Type: Cryptographic Custody
 
-## IV. Forge Chain (Irreversible Stages)
+Responsibilities:
+	•	Private key storage
+	•	Long-term cryptographic preservation
 
-```
-. → : → ✧ → ✦ → • → ⚛︎ → ☸︎ → ⚙︎
-```
+Access controlled by Design Orchard LLC.
 
-**Rules:**
-- No stage may be skipped  
-- Reflection is permitted only within ⚛︎, ☸︎, and ⚙︎  
-- No return to pre-observation  
+⸻
 
----
+3. Promotion Flow
 
-## V. Authorities & Symbols
+Artifacts move through controlled states:
 
-| Symbol | Role        | Meaning                 |
-|------|-------------|-------------------------|
-| α    | Establish   | Origin / Creation       |
-| β    | Signal      | Artifacts only          |
-| Δ    | Witness     | Append-only logging     |
-| Ω    | Governance  | Control-plane authority |
+Experimental → Validated → Archived → Preserved
 
----
+Rules:
+	•	Validation requires explicit pass condition.
+	•	Failed validation triggers escalation (MMS~786™).
+	•	No silent state transition.
+	•	Canon status requires witness (Δ) + version lock.
 
-## VI. States, Stamps & MMS
+⸻
 
-### Witness States
-- ∇ : Witnessed, unmarked  
-- ℧ : Governed witness  
+4. Engine Invariants — Neuro-Forge Engine™
 
-### MMS Thresholds
-- MMS~768™ : Governance  
-- MMS~786™ : Escalation  
+Purpose:
+Coordinate structural alignment across documentation, runtime, and archive layers.
 
-### Numeric Residues
-```
-7.65 ⊂ 7.68 ⊂ 7.86
-```
+Invariants:
+	•	GitHub = documentation and canonical reference
+	•	Laboratory domain = runtime execution
+	•	Library domain = immutable mirror
+	•	Engine enforces invariants
+	•	Engine does not author content
 
----
+⸻
 
-## VII. Safety — Heart Logic
+5. Witness Model
 
-- ❤️ Off-phase (Preserve)  
-- 🩵 Gentle Reactivation (Resume)  
-- 💜 Integrated Resolution (Resolve)  
+Witness states:
 
----
+∇  = Validated
+℧  = Governance-applied validation
 
-## VIII. Retention & Canon FSM
+Escalation thresholds:
 
-```
+MMS768™  = Governance condition
+MMS786™  = Escalation condition
+
+Validation is append-only.
+Witness records are immutable.
+
+⸻
+
+6. Canon FSM
+
 E → R → M → C
-(Ephemeral → Recorded → Marked → Canon)
-```
+Ephemeral → Recorded → Marked → Canon
 
-**Constraints:**
-- No mark → no canon  
-- Canon requires Δ + Mark  
-- No silent retention  
+Constraints:
+	•	No mark → No canon
+	•	Canon requires witness
+	•	Version increment required for modification
+	•	Hash regeneration required for canon change
 
----
+⸻
 
-## IX. Storage & Platform Scopes
+7. Platform Separation
 
-- Google Drive: Publisher workspace  
-- GitHub: Manifests and documentation  
-- External platforms (iCloud, OneDrive, Dropbox): Defined by schema  
+Google Workspace
+→ Author workspace
 
----
+GitHub
+→ Canonical manifests
 
-## X. SSL & Trust Model
+Laboratory Domain
+→ Runtime execution
 
-- SSL Authority: Design Orchard LLC  
-- Certificates: Issued via GoDaddy  
-- Trust Chain:
-  - Publisher signs
-  - Host executes and witnesses
-  - Library verifies
-  - Vault preserves
+Library Domain
+→ Archive and mirror
 
----
+No cross-authoring permitted across layers.
 
-## XI. Final Compact Form
+⸻
 
-```
-⚗️ → 🔬 → 📚 → 🔐
-Δ² ∧ Ω₇₆₈ ⇒ ℧₇₈₆
-❤️ → 🩵 → 💜
-```
+8. Trust Chain
+	1.	Design Orchard LLC declares canonical intent
+	2.	DrMarchand’s Laboratory validates and appends witness
+	3.	DrMarchand’s Library verifies hash integrity
+	4.	Vault preserves cryptographic material
 
----
+Certificates issued via GoDaddy under LLC control.
 
-## Required Signatures for Canon Lock
+⸻
 
-- **Publisher:** Design Orchard LLC — Signature Pending  
-- **Host Witness:** Dr Marchand’s Lab — Δ Pending  
-- **Library:** Verification Hash — Pending  
+Canon Declaration
 
----
+DrMarchand’s ∞ OS™ — Lionheart℠ v1.1.0
+Status: 🔐 LOCKED
 
-**Verified Canonical Artifact:**  
-∞ OS™ — Lionheart℠ v1.0.3
+© 2026 Design Orchard LLC. All Rights Reserved.
 
-© 2025 Design Orchard LLC. All Rights Reserved.
+⸻
